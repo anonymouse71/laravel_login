@@ -1,2 +1,2 @@
 # laravel_login
-a simple login sysstem using laravel 
+a simple login system using laravel 
